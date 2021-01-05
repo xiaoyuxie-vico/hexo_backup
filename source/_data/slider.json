@@ -1,0 +1,22 @@
+[{
+    "image": "https://vico-image.oss-cn-hongkong.aliyuncs.com/background/andreas-gucklhorn-mawU2PoJWfU-unsplash.jpg",
+    "align": "center",
+    "title": "Welcome to Xiaoyu Xie's Blog",
+    "subtitle": "Share knowledge and have fun.",
+	"link": "/"
+},
+{
+    "image": "https://vico-image.oss-cn-hongkong.aliyuncs.com/background/michael-baccin-sN4nCLXGiu8-unsplash.jpg",
+    "align": "center",
+    "title": "This blog is about my researches and life.",
+    "subtitle": "",
+    "link": "/"
+},
+{
+    "image": "https://vico-image.oss-cn-hongkong.aliyuncs.com/background/screen.jpeg",
+    "align": "center",
+    "title": "Keep Moving!",
+    "subtitle": "",
+    "link": "/"
+}
+]

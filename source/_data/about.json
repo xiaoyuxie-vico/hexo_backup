@@ -1,0 +1,25 @@
+{
+    "avatar": "https://vico-image.oss-cn-hongkong.aliyuncs.com/avatar_2020.jpeg",
+    "name": "Xiaoyu Xie",
+    "tag": "Deep Learning",
+    "desc": "",
+    "skills": {
+        "Python": 8,
+        "PyTorch": 8
+    },
+    "projects": [{
+        "name": "Project A",
+        "image": "url",
+        "tags": ["2020", "Deep Learning"],
+        "description": "Description",
+        "link_text": "Link",
+        "link": "url"
+    }, {
+        "name": "Project B",
+        "image": "url",
+        "description": "Description",
+        "tags": ["Deep Learning"],
+        "link_text": "Link",
+        "link": "url"
+    }]
+}

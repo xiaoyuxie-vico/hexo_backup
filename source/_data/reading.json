@@ -1,0 +1,32 @@
+{
+    "define": {
+	    "readed": "Have Read",
+        "reading": "Reading",
+        "wanted": "To Read"
+    },
+    "contents": {
+        "readed": [{
+            "title": "低智商犯罪",
+            "cover": "https://img9.doubanio.com/view/subject/s/public/s33596129.jpg",
+            "review": "适合休闲阅读，非常像《疯狂的石头》",
+            "score": "3/5",
+            "doubanLink": "https://book.douban.com/subject/34996662//"
+        }],
+
+		"reading": [{
+            "title": "Machine Learning Refined",
+            "cover": "https://img9.doubanio.com/view/subject/l/public/s33772608.jpg",
+            "review": "Best first machine learning for almost everyone",
+            "score": "5/5",
+            "doubanLink": "https://book.douban.com/subject/35217898/"
+        }],
+
+        "wanted": [{
+            "title": "Pattern Recognition and Machine Learning",
+            "cover": "https://img9.doubanio.com/view/subject/l/public/s4254558.jpg",
+            "review": "",
+            "score": null,
+            "doubanLink": "https://book.douban.com/subject/2061116/"
+        }]
+    }
+}
