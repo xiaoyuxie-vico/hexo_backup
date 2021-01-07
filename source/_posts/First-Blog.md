@@ -1,6 +1,7 @@
 ---
 title: First Blog
 date: 2021-01-04 15:26:47
+categories: Life
 tags: Life
 ---
 
