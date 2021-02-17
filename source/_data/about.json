@@ -1,11 +1,13 @@
 {
-    "avatar": "https://vico-image.oss-cn-hongkong.aliyuncs.com/avatar_2020.jpeg",
+    "avatar": "https://vico-image.oss-cn-hongkong.aliyuncs.com/avatar.jpg",
     "name": "Xiaoyu Xie",
     "tag": "Deep Learning",
     "desc": "",
     "skills": {
+        "PyTorch": 8,
+		"TensorFlow": 5,
         "Python": 8,
-        "PyTorch": 8
+		"Matlab": 5
     },
     "projects": [{
         "name": "Project A",
