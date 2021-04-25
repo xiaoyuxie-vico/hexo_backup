@@ -6,10 +6,10 @@ layout: about
 
 # Background
 
-I am a PhD student at Northwestern University. 
+I am Xiaoyu Xie, a first-year PhD student at Northwestern University. 
 
 # Research Interests:
 
-- Bayesian Deep Learning;
 - Computer Vision;
 - Deep Learning in Manufacturing, Mechanics, and Finace;
+- Bayesian Deep Learning;

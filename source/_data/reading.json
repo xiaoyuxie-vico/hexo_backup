@@ -13,6 +13,14 @@
             "doubanLink": "https://book.douban.com/subject/34996662//"
         }],
 
+        "readed": [{
+            "title": "21天学通C++",
+            "cover": "https://img9.doubanio.com/view/subject/l/public/s24422798.jpg",
+            "review": "非常使用，每个知识点都用了例子进行说明",
+            "score": "4/5",
+            "doubanLink": "https://book.douban.com/subject/20383712/"
+        }],
+
 		"reading": [{
             "title": "Machine Learning Refined",
             "cover": "https://img9.doubanio.com/view/subject/l/public/s33772608.jpg",

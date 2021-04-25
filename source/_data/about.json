@@ -7,21 +7,16 @@
         "PyTorch": 8,
 		"TensorFlow": 5,
         "Python": 8,
-		"Matlab": 5
+		"Matlab": 5,
+		"Jave": 3,
+		"C++": 3
     },
     "projects": [{
-        "name": "Project A",
+        "name": "Mechanistic data-driven prediction of as-built mechanical properties in metal additive manufacturing",
         "image": "url",
-        "tags": ["2020", "Deep Learning"],
-        "description": "Description",
-        "link_text": "Link",
-        "link": "url"
-    }, {
-        "name": "Project B",
-        "image": "url",
-        "description": "Description",
-        "tags": ["Deep Learning"],
-        "link_text": "Link",
-        "link": "url"
+        "tags": ["Convolutional neural network", "Machine learning", "Wavelet transform", "Process-structure-properties", "Additive manufacturing"],
+        "description": "Mechanistic data-driven prediction of as-built mechanical properties in metal additive manufacturing, Npj Computational Materials, 2021.",
+        "link_text": "Github Link",
+        "link": "https://github.com/xiaoyuxie-vico/DL-AM"
     }]
 }
