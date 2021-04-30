@@ -1,14 +1,13 @@
 ---
-title: A Survey for Vision Transformers
+title: A Survey for Vision Transformers (By Mar. 2021)
 date: 2021-04-25 13:02:11
+categories: Course project 
 tags: 
     - Survey
     - Vision transformer
     - Computer vision
     - Course project
 ---
-
-**Note that this is a literature surevy for a course EECS 433. It was writen in Mar. 2021.**
 
 **ABSTRACT:** Inspired by the impressive performance of transformer in natural language tasks, a growing number of researchers is exploring vision transformer and trying to apply to their own fields. In this paper, I will give a comprehensive literature review about vision transformer. I start with the background, motivation and paper structure int the first section. Then, I will go through the development and fundamental knowledge of convolution neural networks, self-attention, and Fourier-based networks. After that, I will discuss the transformer structure and its applications and make some classification and comparison of various methods. Finally, I will clarify some difficulties, potential research directions, and give course feedback.
 

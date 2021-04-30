@@ -1,7 +1,7 @@
 ---
 title: Robust and Explainable Image Classification Based on Logits Kernel Density Estimation
 date: 2021-01-05 18:51:00
-categories: Research
+categories: Course project
 tags: 
 	- Class Project
 	- Deep Learning

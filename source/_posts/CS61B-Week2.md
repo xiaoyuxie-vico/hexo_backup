@@ -6,7 +6,7 @@ tags:
 - Algorithm
 - Data structure
 - Notes
-categories: Notes
+categories: Class notes
 ---
 
 # Week 2 - Notes
@@ -232,6 +232,39 @@ public class IntList2 {
     }
 }
 ```
+
+# Reading 2.3: The DLList
+
+## addLast
+
+```java
+public class SLList {
+    private IntNode sentinel;
+    private IntNode last;
+    private int size;    
+
+    public void addLast(int x) {
+        last.next = new IntNode(x, null);
+        last = last.next;
+        size += 1;
+    }
+    ...
+}
+```
+
+
+
+**Exercise 2.3.1:** Consider the box and pointer diagram representing the `SLList` implementation above, which includes the last pointer. Suppose that we'd like to support `addLast`, `getLast`, and `removeLast` operations. Will the structure shown support rapid `addLast`, `getLast`, and `removeLast` operations? If not, which operations are slow?
+
+![sllist_last_pointer.png](sllist_last_pointer.png)
+
+**Answer 2.3.1:** `addLast` and `getLast` will be fast, but `removeLast` will be slow. That's because we have no easy way to get the second-to-last node, to update the `last` pointer, after removing the last node.
+
+## SecondToLast
+
+
+
+
 
 # Reference:
 
