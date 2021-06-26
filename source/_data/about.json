@@ -4,19 +4,19 @@
     "tag": "Deep Learning",
     "desc": "",
     "skills": {
-        "PyTorch": 8,
+        "PyTorch": 9,
+        "Python": 9,
+		"Matlab": 6,
 		"TensorFlow": 5,
-        "Python": 8,
-		"Matlab": 5,
 		"Java": 3,
 		"C++": 3
     },
     "projects": [{
-        "name": "Mechanistic data-driven prediction of as-built mechanical properties in metal additive manufacturing",
-        "image": "url",
-        "tags": ["Convolutional neural network", "Machine learning", "Wavelet transform", "Process-structure-properties", "Additive manufacturing"],
-        "description": "Mechanistic data-driven prediction of as-built mechanical properties in metal additive manufacturing, Npj Computational Materials, 2021.",
-        "link_text": "Github Link",
-        "link": "https://github.com/xiaoyuxie-vico/DL-AM"
+        "name": "Deep Learning for Additive Manufacturing",
+        "image": "https://vico-image.oss-cn-hongkong.aliyuncs.com/npj-2021/schematic.jpg",
+        "tags": [],
+        "description": "Paper: Xie, X., Bennett, J., Saha, S., Lu, Y., Cao, J., Liu, W. K., & Gan, Z. (2021). Mechanistic data-driven prediction of as-built mechanical properties in metal additive manufacturing. Npj Computational Materials",
+        "link_text": "Paper Link",
+        "link": "https://www.nature.com/articles/s41524-021-00555-z"
     }]
 }

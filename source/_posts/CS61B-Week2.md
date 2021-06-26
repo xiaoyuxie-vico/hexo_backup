@@ -260,12 +260,38 @@ public class SLList {
 
 **Answer 2.3.1:** `addLast` and `getLast` will be fast, but `removeLast` will be slow. That's because we have no easy way to get the second-to-last node, to update the `last` pointer, after removing the last node.
 
-## SecondToLast
 
 
+## Week 2 - discussion 1
 
+Implement square and squareMutative which are static methods that both take in an IntList L and return an IntList with its integer values all squared. square does this non-mutatively with recursion by creating new IntLists while squareMutative uses a recursive approach to change the instance variables of the input IntList L.
 
+```java
+public static IntList square(IntList L) {
+    if (L == null) {
+        return L;
+    } else {
+        IntList rest = square(L.rest);
+        IntList M = new IntList(L.first * L.first, rest);
+        return M;
+    }
+}
+```
+
+```java
+public static IntList squareMutative(IntList L) {
+    IntList B = L;
+    
+    while (B != null) {
+        B.first *= B.first;
+        B = B.rest
+    }
+    return L;
+}
+```
 
 # Reference:
 
 - [CS 61B | Part 1 | List (Linked List & Array List)](https://www.junhaow.com/studynotes/cs61b/cs61b%20p1.html)
+- [CS 61B week discussion 1 solution](https://sp18.datastructur.es/materials/discussion/disc02sol.pdf)
+
